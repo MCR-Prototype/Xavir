@@ -11,4 +11,30 @@
   "profile": {
     "name": "typicode"
   }
+  "childdata": [
+    {
+      "id": 1,
+      "type": "box",
+      "message": "Box 1",
+      "style": {
+        "left": 0,
+        "top": 0
+      }
+    }, {
+      "id": 2,
+      "type": "list",
+      "message": "Box 2",
+      "style": {
+        "left": 349,
+        "top": 152
+      }
+    }, {
+      "id": 3,
+      "type": "Button",
+      "message": "Box 3",
+      "style": {
+        "left": 0,
+        "top": 300
+		}
+  ]
 }
