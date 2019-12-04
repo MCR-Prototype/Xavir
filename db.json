@@ -37,5 +37,11 @@
         "top": 300
       }
     }
-  ]
+  ],
+  "profile": {
+    "resolution": {
+      "width": 1000,
+      "height": 500
+    }
+  }
 }
